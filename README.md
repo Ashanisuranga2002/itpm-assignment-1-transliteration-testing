@@ -1,4 +1,5 @@
-# IT23629226 - IT3040 Assignment 1
+# IT23716650
+- IT3040 Assignment 1
 
 ## Student ID and Name
 - Name: Wickramaatachchi W.A.A.I
