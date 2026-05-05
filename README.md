@@ -20,10 +20,10 @@ The test cases evaluate how accurately the application converts chat-style Singl
 ---
 
 ## Project Structure
-IT23629226/
-- IT23629226_test_automation.py  -> Playwright automation script
-- IT23629226_Assignment 1 - Test cases.xlsx  -> Excel file with test cases and results
-- IT23629226_requirements.txt  -> Python dependencies
+IT23716650/
+- IT23716650_test_automation.py  -> Playwright automation script
+- IT23716650_Assignment 1 - Test cases.xlsx  -> Excel file with test cases and results
+- IT23716650_requirements.txt  -> Python dependencies
 - README.md  -> Project documentation
 - .venv/ (optional)  -> Virtual environment (not required)
 
@@ -75,7 +75,7 @@ playwright install
 4. Run the automation script:
 
 ```bash
-python IT23629226_test_automation.py --excel "IT23629226_Assignment 1 - Test cases.xlsx" --url "https://www.pixelssuite.com/chat-translator"
+python IT23716650_test_automation.py --excel "IT23716650_Assignment 1 - Test cases.xlsx" --url "https://www.pixelssuite.com/chat-translator"
 ```
 
 ---
